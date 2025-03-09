@@ -92,3 +92,13 @@ body {
     padding: 0;
     box-sizing: border-box;
 }
+.work-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.work-box p {
+    margin-top: 10px;
+    font-size: 14px;
+    color: black;
+}
