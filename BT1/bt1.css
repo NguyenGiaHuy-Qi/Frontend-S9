@@ -1,0 +1,23 @@
+body{
+    background-color: #dfdede;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}    
+.box{
+    width: 800px;
+    height: 800px;
+    border: 2px solid black;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    outline: 4px solid white;
+}
+.box-contain{
+    width: 200px;
+    height: 200px;
+    background-color: #3498db;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
